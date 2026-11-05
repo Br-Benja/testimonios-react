@@ -6,6 +6,8 @@ Interfaz que muestra testimonios de uno en uno, con navegación manual (Anterior
 
 **Etapa terminada:** básica + ampliación con reproducción automática.
 
+**Sitio publicado:** https://br-benja.github.io/testimonios-react/ (GitHub Pages, se actualiza con cada push a `main`).
+
 > Los testimonios y fotografías son datos ficticios de demostración (avatares de pravatar.cc).
 
 ## Integrantes
