@@ -14,8 +14,8 @@ Interfaz que muestra testimonios de uno en uno, con navegación manual (Anterior
 
 | Nombre | Número de control | Rol |
 |---|---|---|
-| Víctor Benjamín Bautista Rojas (@Br-Benja) | | Conductor / observador (alternados) |
-| Leonardo Manuel Olvera Álvarez | | Conductor / observador (alternados) |
+| Víctor Benjamín Bautista Rojas (@Br-Benja) | 23031410 | Conductor / observador (alternados) |
+| Leonardo Manuel Olvera Álvarez | 22031485 | Conductor / observador (alternados) |
 
 ## Versiones utilizadas
 
